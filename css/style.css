@@ -208,15 +208,14 @@ img {
     padding: 0 50px;
     display: flex;
     justify-content: space-between;
-    list-style-type: none;
 }
 .works-item {
     width: 32%;
     background-color: #fff;    
-    list-style-type: none;
 }
 .works-item a {
     color: #141414;
+    list-style-type: none;
 }
 .works-list-text {
     padding: 25px 20px;
