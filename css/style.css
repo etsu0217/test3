@@ -213,6 +213,7 @@ img {
 .works-item {
     width: 32%;
     background-color: #fff;    
+    list-style-type: none;
 }
 .works-item a {
     color: #141414;
