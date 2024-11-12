@@ -47,7 +47,9 @@ img {
     font-size: 9rem;
     opacity: .05;
 }
-
+ul {
+    text-decoration:none;
+}
 
 .link-btn {
     display: block;
