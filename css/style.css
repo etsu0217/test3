@@ -47,9 +47,6 @@ img {
     font-size: 9rem;
     opacity: .05;
 }
-.nav-list {
-    text-decoration:none;
-}
 
 .link-btn {
     display: block;
@@ -120,6 +117,9 @@ img {
 }
 .nav-item {
     margin-right: 30px;
+}
+.nav-list {
+    text-decoration:none;
 }
 .nav-list:last-of-type {
     margin-right: 0;
@@ -254,6 +254,9 @@ img {
 .service-item a:hover {
     background-color: rgba(40, 47, 53, .7);
     transition: .3s;
+}
+.service-list {
+    text-decoration: none;
 }
 /* ------------------------ */
         /* contact */
