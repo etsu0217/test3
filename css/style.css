@@ -258,11 +258,8 @@ img {
 .service-list {
     text-decoration: none;
 }
-.service-item service_1 {
-    text-decoration:none;
-}
-.service-item service_3 {
-    text-decoration:none;
+ul.service-list {
+    padding-left:0;
 }
 /* ------------------------ */
         /* contact */
