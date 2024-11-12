@@ -208,6 +208,7 @@ img {
     padding: 0 50px;
     display: flex;
     justify-content: space-between;
+    list-style-type: none;
 }
 .works-item {
     width: 32%;
@@ -220,7 +221,7 @@ img {
 .works-list-text {
     padding: 25px 20px;
 }
-
+    
 /* ------------------------ */
         /* service */
 /* ------------------------ */
