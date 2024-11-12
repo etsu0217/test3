@@ -258,6 +258,9 @@ img {
 .service-list {
     text-decoration: none;
 }
+::marker {
+    text-decoration:none;
+}
 /* ------------------------ */
         /* contact */
 /* ------------------------ */
