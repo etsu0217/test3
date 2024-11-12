@@ -209,12 +209,11 @@ img {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 .works-item {
     width: 32%;
     background-color: #fff;
-    text-decoration: none;
 }
 .works-item a {
     color: #141414;
