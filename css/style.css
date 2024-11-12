@@ -215,7 +215,7 @@ img {
 }
 .works-item a {
     color: #141414;
-    list-style-type: none;
+    text-decoration: none;
 }
 .works-list-text {
     padding: 25px 20px;
