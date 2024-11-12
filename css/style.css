@@ -258,7 +258,7 @@ img {
 .service-list {
     text-decoration: none;
 }
-ul.service-list {
+.ul.service-list {
     padding-left:0;
 }
 /* ------------------------ */
